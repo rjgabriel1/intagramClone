@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="like_icon">like icon</string>
+    <string name="shareicon">shareIcon</string>
+    <string name="save_icon">save icon</string>
+    <string name="kylex">kylexy</string>
+    <string name="this_is_the_caption">This is the caption...</string>
+    <string name="_0likes">0Likes</string>
+    <string name="_0comments">0Comments</string>
+</resources>
